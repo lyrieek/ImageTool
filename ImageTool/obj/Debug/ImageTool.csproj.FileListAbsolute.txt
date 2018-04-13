@@ -1,0 +1,10 @@
+F:\C#\C sharp 自研\ImageTool\ImageTool\bin\Debug\ImageTool.exe.config
+F:\C#\C sharp 自研\ImageTool\ImageTool\bin\Debug\ImageTool.exe
+F:\C#\C sharp 自研\ImageTool\ImageTool\bin\Debug\ImageTool.pdb
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.csprojResolveAssemblyReference.cache
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.MainForm.resources
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.Properties.Resources.resources
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.csproj.GenerateResource.Cache
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.exe
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.pdb
+F:\C#\C sharp 自研\ImageTool\ImageTool\obj\Debug\ImageTool.ListForm.resources
